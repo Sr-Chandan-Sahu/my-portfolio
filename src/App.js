@@ -48,7 +48,7 @@ function App() {
           <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
-          }
+          }{setDarkMode()}
         </Body>
       </Router>
     </ThemeProvider>
