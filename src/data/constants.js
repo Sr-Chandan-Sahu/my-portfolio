@@ -226,13 +226,13 @@ export const Bio = {
       title: "Note Taking App",
       date: "May 2023 - Present",
       description:
-        "Developed a web application that allows users to take their own personal notes with CRUD opearations.",
+        "Developed a web application that allows users to take their own personal notes with CRUD opearations. Use Email: chandan@gmail.com and password: chandan123",
       image:
         "https://raw.githubusercontent.com/Sr-Chandan-Sahu/note-taking-app/main/src/Screenshot%20(1385).png",
       tags: ["React", "TypeScript", "Material UI"],
       category: "web app",
       github: "https://github.com/Sr-Chandan-Sahu/note-taking-app",
-      webapp: "https://",
+      webapp: "https://sr-chandan-sahu.github.io/note-taking-app",
       member: [
         {
           name: "Chandan Sahu",
