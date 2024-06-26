@@ -244,20 +244,20 @@ export const Bio = {
     },
     {
       id: 1,
-      title: "Receipe Finder Webapp",
+      title: "Password Generator",
       date: "March 2024 - Apr 2024",
       description:
-        "Designed and developed the Receipe finder app, a Web app where user can search various receipes with their neutrients.",
+        "It is a Web Application to generate random password according to your requirements",
       image:
-        "https://media.licdn.com/dms/image/C4E12AQGXNk6g7o6R3Q/article-cover_image-shrink_720_1280/0/1638904437200?e=2147483647&v=beta&t=Npzx6RT2PGuIb0YOh1z4uMM1lXMa7B9YTyOr9TkEVmE",
+        "https://raw.githubusercontent.com/Sr-Chandan-Sahu/react-password-generator/main/src/Password%20Generator.png",
       tags: [
-        "React Js",
+        "React JS",
         "JavaScript",
-        "Material UI",
+        "Tailwind CSS",
       ],
       category: "web app",
-      github: "https://github.com/Sr-Chandan-Sahu/",
-      webapp: "https://",
+      github: "https://github.com/Sr-Chandan-Sahu/react-password-generator",
+      webapp: "https://sr-chandan-sahu.github.io/react-password-generator",
     },
         
     {
