@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Sr-Chandan-Sahu",
     resume:
-      "https://drive.google.com/file/d/1HEB9yaE8TWHCa03UkHhVRK3JAF1wY2_s/view?usp=sharing",
+      "https://drive.google.com/file/d/11uMsTULSGqqTjS4A3WKdWKSTWwK4B-Lx/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sr-chandan-sahu/",
     // twitter: "https://twitter.com/",
     // insta: "https://www.instagram.com/",
@@ -268,10 +268,22 @@ export const Bio = {
         " A Todo Web App made with React JS,and Tailwind. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
       image:
         "https://raw.githubusercontent.com/Sr-Chandan-Sahu/kreativetimebox-react-projects/main/src/components/To-Do-List/Screenshot%20(1386).png",
-      tags: ["React Js", "Local Storage", "Tailwind"],
+      tags: ["React JS", "Local Storage", "Tailwind"],
       category: "web app",
       github: "https://github.com/Sr-Chandan-Sahu/",
       webapp: "https://",
+    },
+    {
+      id: 3,
+      title: "E-commerce Web application",
+      date: "August 2024",
+      description:"A web application that provides all features including Sorting and filtering products,Admin dashboard, Add to cart, authentication and Payment methods and it is integrated with backend technologies such as NodeJS, ExpressJS and MongoDB as database",
+      image:
+        "https://raw.githubusercontent.com/Sr-Chandan-Sahu/MERN-projects/e10e74b533bc3faf2a81ad78e4b881e39d0a03d2/Forever/client/Landing%20Page.png",
+      tags: ["React JS", "NodeJS", "Tailwind", "ExpressJS", "MongoDB"],
+      category: "web app",
+      github: "https://github.com/Sr-Chandan-Sahu/MERN-projects/tree/main/Forever",
+      webapp: "https://github.com/Sr-Chandan-Sahu/MERN-projects/tree/main/Forever",
     },
     
   ];
