@@ -157,7 +157,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://media.licdn.com/dms/image/D4E0BAQGngWsTEtHtQA/company-logo_200_200/0/1703074144619/kreativetimebox_logo?e=1726099200&v=beta&t=J-mMVpcthuAcDOPrjVWT5Bv0gqYhLi-uOmtFqSm8n-A",
+      img: "https://media.licdn.com/dms/image/v2/D4E0BAQGngWsTEtHtQA/company-logo_200_200/company-logo_200_200/0/1703074144619/kreativetimebox_logo?e=1735171200&v=beta&t=fZuierBOsZdg_TZZ-Dn1_NUeRhiZlMZ6X9YCbotEIsQ",
       role: "Software Developer",
       company: "KreativeTimebox",
       date: "Jan 2024 - Present",
@@ -176,7 +176,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://media.licdn.com/dms/image/C560BAQEXHkt-wWsJvw/company-logo_200_200/0/1672375746573?e=1726099200&v=beta&t=wANscc9sdHtujyCK-KPnoi6IH1cMaovZmv9VQ6RN3mw",
+      img: "https://media.licdn.com/dms/image/v2/C560BAQEXHkt-wWsJvw/company-logo_200_200/company-logo_200_200/0/1672375746573?e=1735171200&v=beta&t=WJcJ4PolxvCNB-WZbQr2CihRKrHPLWuObtR6hlLIlC4",
       role: "Backend Developer Intern",
       company: "Code Beat",
       date: "May 2023 - June 2023",
